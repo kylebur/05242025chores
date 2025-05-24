@@ -1,0 +1,28 @@
+family_members:
+- Kyle 
+- Noa
+- Adrianne
+rooms:
+- frequency: weekly
+  id: 14e042c0-6700-4fd7-9f09-fae4cf3ad3a8
+  name: Kitchen
+  tasks:
+  - assigned_to: Alice
+    frequency: daily
+    id: 19d144b5-a493-434f-a1ef-d398f1c145f5
+    last_completed: null
+    name: Wash dishes
+  - assigned_to: Bob
+    frequency: weekly
+    id: 2a06188e-ac74-4eb5-83ba-ae7403c2ce8c
+    last_completed: null
+    name: Clean counters
+- frequency: weekly
+  id: 28fccddd-2c15-4dff-bbe3-67791dda773c
+  name: Living Room
+  tasks:
+  - assigned_to: Alice
+    frequency: weekly
+    id: 5d48131f-bb71-4acb-8a91-b8aae6c4c639
+    last_completed: null
+    name: Vacuum floor
