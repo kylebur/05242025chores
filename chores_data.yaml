@@ -1,0 +1,38 @@
+members:
+  member3:
+    name: Adrianne
+  member4:
+    name: Kyle
+  member5:
+    name: Noa
+next_ids:
+  member: 6
+  room: 3
+  task: 4
+rooms:
+  kitchen:
+    default_frequency_days: 7
+    name: Kitchen
+    tasks:
+      task1:
+        assigned_to: null
+        done: false
+        frequency_days: 1
+        last_done: null
+        name: Wipe counters
+      task2:
+        assigned_to: null
+        done: true
+        frequency_days: 1
+        last_done: '2025-05-24'
+        name: Do dishes
+  living_room:
+    default_frequency_days: 7
+    name: Living Room
+    tasks:
+      task3:
+        assigned_to: null
+        done: false
+        frequency_days: 7
+        last_done: null
+        name: Vacuum floor

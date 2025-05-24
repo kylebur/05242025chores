@@ -1,5 +1,5 @@
 family_members:
-- Kyle 
+- Kyle
 - Noa
 - Adrianne
 rooms:
@@ -26,3 +26,8 @@ rooms:
     id: 5d48131f-bb71-4acb-8a91-b8aae6c4c639
     last_completed: null
     name: Vacuum floor
+- assigned_to: null
+  frequency: weekly
+  id: c08c4322-e86d-48ba-9b2f-971808108af9
+  name: New Kitchen
+  tasks: []
